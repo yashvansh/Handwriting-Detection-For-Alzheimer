@@ -1,0 +1,1 @@
+ML techniques (bagging, boosting, AdaBoost, random forests, XGBoost) were applied for early Alzheimer's diagnosis using a 450-feature handwriting dataset. PCA and XGBoost facilitated efficient feature selection, offering a non-invasive and accessible diagnostic tool for timely intervention.
